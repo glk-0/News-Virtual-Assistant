@@ -7,8 +7,9 @@ import numpy as np
 import torch
 import time
 
-import os
-os.environ["ESPEAK_DATA_PATH"] = "/usr/share/espeak-ng-data"
+#Code to Modify ESPEAK Path if needed
+#import os
+#os.environ["ESPEAK_DATA_PATH"] = "/usr/share/espeak-ng-data"
 
 class TTSEngine:
     def __init__(self):

@@ -1,0 +1,129 @@
+/* The Lovable-style Mesh Gradient Background */
+body, .gradio-container {
+    background-color: #09090b !important;
+    background-image:
+        radial-gradient(at 0% 100%, rgba(236, 72, 153, 0.45) 0px, transparent 50%),
+        radial-gradient(at 100% 0%, rgba(59, 130, 246, 0.45) 0px, transparent 50%),
+        radial-gradient(at 50% 50%, rgba(139, 92, 246, 0.35) 0px, transparent 50%) !important;
+    background-attachment: fixed !important;
+    background-size: cover !important;
+}
+
+.contain { background: transparent !important; }
+
+/* SPA Animation Classes */
+.animate-slide-up {
+    animation: slideUpFade 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@keyframes slideUpFade {
+    0% { opacity: 0; transform: translateY(30px); }
+    100% { opacity: 1; transform: translateY(0); }
+}
+
+/* ─── NEW: Centered Landing Page ─── */
+#landing_page {
+    min-height: 85vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.landing-title h1 {
+    font-size: 4rem !important;
+    font-weight: 800 !important;
+    text-align: center;
+    letter-spacing: -0.04em;
+    margin-bottom: 0.2em !important;
+    color: #ffffff;
+}
+.landing-subtitle p {
+    font-size: 1.25rem !important;
+    text-align: center !important;
+    color: rgba(255, 255, 255, 0.8);
+    margin: 0 auto 2.5rem auto !important; /* This automatically centers the box */
+    max-width: 650px;
+    line-height: 1.5;
+}
+
+/* Add this just below it to be completely safe */
+.landing-subtitle {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+/* ─── NEW: Typewriter Animation ─── */
+.typewriter-container {
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 9999px;
+    padding: 18px 30px;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto 2.5rem auto;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.4);
+    text-align: left;
+}
+
+.typewriter-inner {
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 2px solid #000;
+    box-sizing: border-box;
+    color: #18181b;
+    font-weight: 500;
+    font-size: 1.2rem;
+    /* 6-second total cycle: 2s typing, 2s pause, 1s delete, 1s pause */
+    animation: typing 6s steps(40, end) infinite, blink-caret .75s step-end infinite;
+}
+
+/* Swap phrases out when the width is 0 */
+.typewriter-inner::after {
+    content: "";
+    animation: words 18s infinite; /* 3 phrases * 6s cycle = 18s total */
+}
+
+@keyframes words {
+    0%, 33.3% { content: "Preheat the oven to 400 degrees..."; }
+    33.4%, 66.6% { content: "Did the Habs win their game last night?"; }
+    66.7%, 100% { content: "What are the top news headlines today?"; }
+}
+
+@keyframes typing {
+    0%, 15% { width: 0; }
+    40%, 70% { width: 100%; }
+    85%, 100% { width: 0; }
+}
+
+@keyframes blink-caret {
+    from, to { border-color: transparent; }
+    50% { border-color: #000; }
+}
+
+/* Pill buttons */
+button {
+    border-radius: 9999px !important;
+    font-weight: 600 !important;
+    padding: 12px 32px !important;
+    transition: transform 0.2s ease, box-shadow 0.2s ease !important;
+}
+button.primary:hover {
+    transform: scale(1.03);
+    box-shadow: 0 0 25px rgba(255,255,255,0.25) !important;
+}
+
+/* Glassmorphism Cards */
+.glass-panel {
+    backdrop-filter: blur(20px) !important;
+    -webkit-backdrop-filter: blur(20px) !important;
+    border-radius: 20px !important;
+    padding: 24px !important;
+}
+/* Stop the Start button from stretching across the screen */
+#start_button {
+    max-width: 240px !important; /* Adjust this number if you want it wider/narrower */
+    margin: 0 auto !important;   /* This perfectly centers it */
+    width: 100% !important;
+}

@@ -1,0 +1,775 @@
+{
+    "raiders": "Las Vegas Raiders",
+    "las vegas": "Las Vegas Raiders",
+    "silver and black": "Las Vegas Raiders",
+
+    "jaguars": "Jacksonville Jaguars",
+    "jags": "Jacksonville Jaguars",
+
+    "patriots": "New England Patriots",
+    "pats": "New England Patriots",
+    "new england": "New England Patriots",
+
+    "giants": "New York Giants",
+    "ny giants": "New York Giants",
+    "big blue": "New York Giants",
+
+    "ravens": "Baltimore Ravens",
+    "baltimore": "Baltimore Ravens",
+
+    "titans": "Tennessee Titans",
+    "tennessee": "Tennessee Titans",
+
+    "lions": "Detroit Lions",
+    "detroit": "Detroit Lions",
+
+    "falcons": "Atlanta Falcons",
+    "atlanta": "Atlanta Falcons",
+    "dirty birds": "Atlanta Falcons",
+
+    "browns": "Cleveland Browns",
+    "cleveland": "Cleveland Browns",
+    "dawg pound": "Cleveland Browns",
+
+    "bengals": "Cincinnati Bengals",
+    "cincinnati": "Cincinnati Bengals",
+    "who dey": "Cincinnati Bengals",
+
+    "cardinals": "Arizona Cardinals",
+    "arizona": "Arizona Cardinals",
+    "cards": "Arizona Cardinals",
+
+    "eagles": "Philadelphia Eagles",
+    "philadelphia": "Philadelphia Eagles",
+    "philly": "Philadelphia Eagles",
+    "iggles": "Philadelphia Eagles",
+
+    "jets": "New York Jets",
+    "ny jets": "New York Jets",
+
+    "49ers": "San Francisco 49ers",
+    "niners": "San Francisco 49ers",
+    "san francisco": "San Francisco 49ers",
+    "sf": "San Francisco 49ers",
+
+    "packers": "Green Bay Packers",
+    "green bay": "Green Bay Packers",
+    "cheeseheads": "Green Bay Packers",
+
+    "bears": "Chicago Bears",
+    "chicago": "Chicago Bears",
+    "da bears": "Chicago Bears",
+
+    "chiefs": "Kansas City Chiefs",
+    "kansas city": "Kansas City Chiefs",
+    "kc": "Kansas City Chiefs",
+    "kc chiefs": "Kansas City Chiefs",
+
+    "commanders": "Washington Commanders",
+    "washington": "Washington Commanders",
+    "wash": "Washington Commanders",
+
+    "panthers": "Carolina Panthers",
+    "carolina": "Carolina Panthers",
+
+    "bills": "Buffalo Bills",
+    "buffalo": "Buffalo Bills",
+    "mafia": "Buffalo Bills",
+
+    "colts": "Indianapolis Colts",
+    "indianapolis": "Indianapolis Colts",
+    "indy": "Indianapolis Colts",
+
+    "steelers": "Pittsburgh Steelers",
+    "pittsburgh": "Pittsburgh Steelers",
+    "stillers": "Pittsburgh Steelers",
+
+    "seahawks": "Seattle Seahawks",
+    "seattle": "Seattle Seahawks",
+    "hawks": "Seattle Seahawks",
+
+    "buccaneers": "Tampa Bay Buccaneers",
+    "bucs": "Tampa Bay Buccaneers",
+    "tampa bay": "Tampa Bay Buccaneers",
+    "tampa": "Tampa Bay Buccaneers",
+
+    "dolphins": "Miami Dolphins",
+    "miami": "Miami Dolphins",
+    "fins": "Miami Dolphins",
+
+    "texans": "Houston Texans",
+    "houston": "Houston Texans",
+
+    "saints": "New Orleans Saints",
+    "new orleans": "New Orleans Saints",
+    "who dat": "New Orleans Saints",
+
+    "broncos": "Denver Broncos",
+    "denver": "Denver Broncos",
+
+    "cowboys": "Dallas Cowboys",
+    "dallas": "Dallas Cowboys",
+    
+    "chargers": "Los Angeles Chargers",
+    "la chargers": "Los Angeles Chargers",
+    "bolts": "Los Angeles Chargers",
+
+    "rams": "Los Angeles Rams",
+    "la rams": "Los Angeles Rams",
+
+    "vikings": "Minnesota Vikings",
+    "minnesota": "Minnesota Vikings",
+    "vikes": "Minnesota Vikings",
+
+    "hawks": "Atlanta Hawks",
+    "atlanta hawks": "Atlanta Hawks",
+
+    "celtics": "Boston Celtics",
+    "boston celtics": "Boston Celtics",
+    "boston": "Boston Celtics",
+    "the celtics": "Boston Celtics",
+
+    "nets": "Brooklyn Nets",
+    "brooklyn": "Brooklyn Nets",
+    "brooklyn nets": "Brooklyn Nets",
+    "bnets": "Brooklyn Nets",
+
+    "hornets": "Charlotte Hornets",
+    "charlotte": "Charlotte Hornets",
+    "buzz city": "Charlotte Hornets",
+
+    "bulls": "Chicago Bulls",
+    "chi bulls": "Chicago Bulls",
+
+    "cavaliers": "Cleveland Cavaliers",
+    "cavs": "Cleveland Cavaliers",
+    "cleveland cavaliers": "Cleveland Cavaliers",
+
+    "mavericks": "Dallas Mavericks",
+    "mavs": "Dallas Mavericks",
+    "dallas mavericks": "Dallas Mavericks",
+
+    "nuggets": "Denver Nuggets",
+    "nugs": "Denver Nuggets",
+    "denver nuggets": "Denver Nuggets",
+
+    "pistons": "Detroit Pistons",
+    "detroit pistons": "Detroit Pistons",
+
+    "warriors": "Golden State Warriors",
+    "gsw": "Golden State Warriors",
+    "dubs": "Golden State Warriors",
+    "golden state": "Golden State Warriors",
+    "the dubs": "Golden State Warriors",
+
+    "rockets": "Houston Rockets",
+    "houston rockets": "Houston Rockets",
+
+    "pacers": "Indiana Pacers",
+    "indiana": "Indiana Pacers",
+    "indiana pacers": "Indiana Pacers",
+
+    "clippers": "Los Angeles Clippers",
+    "la clippers": "Los Angeles Clippers",
+    "clips": "Los Angeles Clippers",
+
+    "lakers": "Los Angeles Lakers",
+    "la lakers": "Los Angeles Lakers",
+    "showtime": "Los Angeles Lakers",
+    "purple and gold": "Los Angeles Lakers",
+
+    "grizzlies": "Memphis Grizzlies",
+    "memphis": "Memphis Grizzlies",
+    "grizz": "Memphis Grizzlies",
+    "memphis grizzlies": "Memphis Grizzlies",
+
+    "heat": "Miami Heat",
+    "miami heat": "Miami Heat",
+    "south beach": "Miami Heat",
+
+    "bucks": "Milwaukee Bucks",
+    "milwaukee": "Milwaukee Bucks",
+    "milwaukee bucks": "Milwaukee Bucks",
+    "fear the deer": "Milwaukee Bucks",
+
+    "timberwolves": "Minnesota Timberwolves",
+    "twolves": "Minnesota Timberwolves",
+    "wolves": "Minnesota Timberwolves",
+    "minnesota timberwolves": "Minnesota Timberwolves",
+
+    "pelicans": "New Orleans Pelicans",
+    "nop": "New Orleans Pelicans",
+    "new orleans pelicans": "New Orleans Pelicans",
+
+    "knicks": "New York Knicks",
+    "new york knicks": "New York Knicks",
+    "ny knicks": "New York Knicks",
+    "the knicks": "New York Knicks",
+
+    "thunder": "Oklahoma City Thunder",
+    "okc": "Oklahoma City Thunder",
+    "oklahoma city": "Oklahoma City Thunder",
+    "okc thunder": "Oklahoma City Thunder",
+
+    "magic": "Orlando Magic",
+    "orlando": "Orlando Magic",
+    "orlando magic": "Orlando Magic",
+
+    "76ers": "Philadelphia 76ers",
+    "sixers": "Philadelphia 76ers",
+    "philly sixers": "Philadelphia 76ers",
+    "philadelphia 76ers": "Philadelphia 76ers",
+    "trust the process": "Philadelphia 76ers",
+
+    "suns": "Phoenix Suns",
+    "phoenix": "Phoenix Suns",
+    "phoenix suns": "Phoenix Suns",
+    "valley suns": "Phoenix Suns",
+
+    "trail blazers": "Portland Trail Blazers",
+    "blazers": "Portland Trail Blazers",
+    "portland": "Portland Trail Blazers",
+    "rip city": "Portland Trail Blazers",
+    "portland trail blazers": "Portland Trail Blazers",
+
+    "kings": "Sacramento Kings",
+    "sacramento": "Sacramento Kings",
+    "sacramento kings": "Sacramento Kings",
+
+    "spurs": "San Antonio Spurs",
+    "san antonio": "San Antonio Spurs",
+    "san antonio spurs": "San Antonio Spurs",
+    "the spurs": "San Antonio Spurs",
+
+    "raptors": "Toronto Raptors",
+    "toronto": "Toronto Raptors",
+    "toronto raptors": "Toronto Raptors",
+    "the north": "Toronto Raptors",
+    "jurassic park": "Toronto Raptors",
+
+    "jazz": "Utah Jazz",
+    "utah jazz": "Utah Jazz",
+    "utah": "Utah Jazz",
+
+    "wizards": "Washington Wizards",
+    "washington wizards": "Washington Wizards",
+    "dc wizards": "Washington Wizards",
+    
+    "ducks": "Anaheim Ducks",
+    "anaheim": "Anaheim Ducks",
+    "mighty ducks": "Anaheim Ducks",
+
+    "bruins": "Boston Bruins",
+
+    "sabres": "Buffalo Sabres",
+    "buffalo sabres": "Buffalo Sabres",
+
+    "flames": "Calgary Flames",
+    "calgary": "Calgary Flames",
+
+    "hurricanes": "Carolina Hurricanes",
+    "canes": "Carolina Hurricanes",
+
+    "blackhawks": "Chicago Blackhawks",
+    "chi": "Chicago Blackhawks",
+
+    "avalanche": "Colorado Avalanche",
+    "avs": "Colorado Avalanche",
+    "colorado": "Colorado Avalanche",
+
+    "blue jackets": "Columbus Blue Jackets",
+    "cbj": "Columbus Blue Jackets",
+    "columbus": "Columbus Blue Jackets",
+
+    "stars": "Dallas Stars",
+    "dallas stars": "Dallas Stars",
+
+    "red wings": "Detroit Red Wings",
+    "wings": "Detroit Red Wings",
+    "detroit red wings": "Detroit Red Wings",
+
+    "oilers": "Edmonton Oilers",
+    "edmonton": "Edmonton Oilers",
+
+    "florida panthers": "Florida Panthers",
+    "florida": "Florida Panthers",
+    "cats": "Florida Panthers",
+
+    "la kings": "Los Angeles Kings",
+
+    "wild": "Minnesota Wild",
+    "minnesota wild": "Minnesota Wild",
+
+    "habs": "Montreal Canadiens",
+    "canadiens": "Montreal Canadiens",
+    "montreal": "Montreal Canadiens",
+    "les canadiens": "Montreal Canadiens",
+
+    "predators": "Nashville Predators",
+    "preds": "Nashville Predators",
+    "nashville": "Nashville Predators",
+
+    "devils": "New Jersey Devils",
+    "new jersey": "New Jersey Devils",
+    "njd": "New Jersey Devils",
+
+    "islanders": "New York Islanders",
+    "isles": "New York Islanders",
+    "ny islanders": "New York Islanders",
+
+    "rangers": "New York Rangers",
+    "blueshirts": "New York Rangers",
+    "ny rangers": "New York Rangers",
+
+    "senators": "Ottawa Senators",
+    "sens": "Ottawa Senators",
+    "ottawa": "Ottawa Senators",
+
+    "flyers": "Philadelphia Flyers",
+    "philadelphia flyers": "Philadelphia Flyers",
+
+    "penguins": "Pittsburgh Penguins",
+    "pens": "Pittsburgh Penguins",
+    "pittsburgh penguins": "Pittsburgh Penguins",
+
+    "sharks": "San Jose Sharks",
+    "san jose": "San Jose Sharks",
+    "sjs": "San Jose Sharks",
+
+    "kraken": "Seattle Kraken",
+    "seattle kraken": "Seattle Kraken",
+
+    "blues": "St. Louis Blues",
+    "st louis": "St. Louis Blues",
+    "stl": "St. Louis Blues",
+
+    "lightning": "Tampa Bay Lightning",
+    "tampa bay lightning": "Tampa Bay Lightning",
+
+    "maple leafs": "Toronto Maple Leafs",
+    "leafs": "Toronto Maple Leafs",
+    "toronto maple leafs": "Toronto Maple Leafs",
+    "the leafs": "Toronto Maple Leafs",
+
+    "mammoth": "Utah Mammoth",
+    "utah mammoth": "Utah Mammoth",
+
+    "canucks": "Vancouver Canucks",
+    "vancouver": "Vancouver Canucks",
+    "nucks": "Vancouver Canucks",
+
+    "golden knights": "Vegas Golden Knights",
+    "vgk": "Vegas Golden Knights",
+    "vegas": "Vegas Golden Knights",
+    "knights": "Vegas Golden Knights",
+
+    "capitals": "Washington Capitals",
+    "caps": "Washington Capitals",
+    "washington capitals": "Washington Capitals",
+
+    "jets": "Winnipeg Jets",
+    "winnipeg": "Winnipeg Jets",
+
+    "man utd": "Manchester United",
+    "man united": "Manchester United",
+    "united": "Manchester United",
+    "mufc": "Manchester United",
+    "red devils": "Manchester United",
+    "the red devils": "Manchester United",
+
+    "newcastle united": "Newcastle",
+    "newcastle utd": "Newcastle",
+    "nufc": "Newcastle",
+    "magpies": "Newcastle",
+    "toon": "Newcastle",
+    "the toon": "Newcastle",
+
+    "afc bournemouth": "Bournemouth",
+    "the cherries": "Bournemouth",
+    "cherries": "Bournemouth",
+
+    "fulham fc": "Fulham",
+    "the cottagers": "Fulham",
+    "cottagers": "Fulham",
+
+    "wolverhampton": "Wolves",
+    "wolverhampton wanderers": "Wolves",
+    "wwfc": "Wolves",
+    "wanderers": "Wolves",
+
+    "liverpool fc": "Liverpool",
+    "the reds": "Liverpool",
+    "lfc": "Liverpool",
+    "reds": "Liverpool",
+
+    "southampton fc": "Southampton",
+
+    "arsenal fc": "Arsenal",
+    "the gunners": "Arsenal",
+    "gunners": "Arsenal",
+    "afc": "Arsenal",
+
+    "everton fc": "Everton",
+    "the toffees": "Everton",
+    "toffees": "Everton",
+
+    "leicester city": "Leicester",
+    "the foxes": "Leicester",
+    "foxes": "Leicester",
+    "lcfc": "Leicester",
+
+    "spurs": "Tottenham",
+    "tottenham hotspur": "Tottenham",
+    "thfc": "Tottenham",
+    "lilywhites": "Tottenham",
+
+    "west ham united": "West Ham",
+    "the hammers": "West Ham",
+    "hammers": "West Ham",
+    "whufc": "West Ham",
+    "irons": "West Ham",
+
+    "chelsea fc": "Chelsea",
+    "the blues": "Chelsea",
+    "cfc": "Chelsea",
+
+    "man city": "Manchester City",
+    "manchester city fc": "Manchester City",
+    "mcfc": "Manchester City",
+    "sky blues": "Manchester City",
+    "citizens": "Manchester City",
+
+    "brighton & hove albion": "Brighton",
+    "brighton and hove albion": "Brighton",
+    "bhafc": "Brighton",
+    "seagulls": "Brighton",
+
+    "crystal palace fc": "Crystal Palace",
+    "palace": "Crystal Palace",
+    "cpfc": "Crystal Palace",
+    "the eagles": "Crystal Palace",
+
+    "brentford fc": "Brentford",
+    "the bees": "Brentford",
+    "bees": "Brentford",
+
+    "ipswich town": "Ipswich",
+    "the tractor boys": "Ipswich",
+    "itfc": "Ipswich",
+
+    "nffc": "Nottingham Forest",
+    "forest": "Nottingham Forest",
+    "the tricky trees": "Nottingham Forest",
+    "tricky trees": "Nottingham Forest",
+
+    "avfc": "Aston Villa",
+    "villa": "Aston Villa",
+    "the villans": "Aston Villa",
+    "villans": "Aston Villa",
+
+    "fc barcelona": "Barcelona",
+    "barca": "Barcelona",
+    "fcb": "Barcelona",
+    "blaugrana": "Barcelona",
+
+    "atletico": "Atletico Madrid",
+    "atl madrid": "Atletico Madrid",
+    "atleti": "Atletico Madrid",
+    "colchoneros": "Atletico Madrid",
+
+    "athletic bilbao": "Athletic Club",
+    "bilbao": "Athletic Club",
+    "los leones": "Athletic Club",
+
+    "valencia cf": "Valencia",
+    "los che": "Valencia",
+
+    "villarreal cf": "Villarreal",
+    "yellow submarine": "Villarreal",
+    "submarino amarillo": "Villarreal",
+
+    "ud las palmas": "Las Palmas",
+
+    "sevilla fc": "Sevilla",
+    "los nervionenses": "Sevilla",
+
+    "cd leganes": "Leganes",
+    "los pepineros": "Leganes",
+
+    "rc celta": "Celta Vigo",
+    "celta de vigo": "Celta Vigo",
+    "los celestes": "Celta Vigo",
+
+    "rcd espanyol": "Espanyol",
+    "espanyol barcelona": "Espanyol",
+    "los pericos": "Espanyol",
+
+    "real madrid cf": "Real Madrid",
+    "los blancos": "Real Madrid",
+    "los merengues": "Real Madrid",
+    "madrid": "Real Madrid",
+    "rm": "Real Madrid",
+
+    "deportivo alaves": "Alaves",
+    "cd alaves": "Alaves",
+    "los babazorros": "Alaves",
+
+    "real betis balompie": "Real Betis",
+    "betis": "Real Betis",
+    "los verdiblancos": "Real Betis",
+
+    "getafe cf": "Getafe",
+    "los azulones": "Getafe",
+
+    "girona fc": "Girona",
+
+    "real sociedad de futbol": "Real Sociedad",
+    "la real": "Real Sociedad",
+    "txuri urdin": "Real Sociedad",
+
+    "real valladolid": "Valladolid",
+    "pucela": "Valladolid",
+
+    "ca osasuna": "Osasuna",
+    "los rojillos": "Osasuna",
+
+    "rayo": "Rayo Vallecano",
+    "los franjirojos": "Rayo Vallecano",
+
+    "rcd mallorca": "Mallorca",
+    "los bermellones": "Mallorca",
+
+    "fc bayern": "Bayern München",
+    "bayern munich": "Bayern München",
+    "die roten": "Bayern München",
+    "the bavarians": "Bayern München",
+
+    "freiburg": "SC Freiburg",
+    "breisgau brasilianer": "SC Freiburg",
+
+    "wolfsburg": "VfL Wolfsburg",
+    "die wolfe": "VfL Wolfsburg",
+
+    "werder": "Werder Bremen",
+    "bremen": "Werder Bremen",
+    "die werderaner": "Werder Bremen",
+
+    "gladbach": "Borussia Mönchengladbach",
+    "monchengladbach": "Borussia Mönchengladbach",
+    "bmg": "Borussia Mönchengladbach",
+    "die fohlen": "Borussia Mönchengladbach",
+    "foals": "Borussia Mönchengladbach",
+
+    "mainz": "FSV Mainz 05",
+    "die karnevalsverein": "FSV Mainz 05",
+
+    "dortmund": "Borussia Dortmund",
+    "bvb": "Borussia Dortmund",
+    "die borussen": "Borussia Dortmund",
+    "the black and yellows": "Borussia Dortmund",
+
+    "hoffenheim": "1899 Hoffenheim",
+    "tsghoffenheim": "1899 Hoffenheim",
+    "die kraichgauer": "1899 Hoffenheim",
+
+    "leverkusen": "Bayer Leverkusen",
+    "bayer 04": "Bayer Leverkusen",
+    "werkself": "Bayer Leverkusen",
+    "neverkusen": "Bayer Leverkusen",
+
+    "frankfurt": "Eintracht Frankfurt",
+    "sge": "Eintracht Frankfurt",
+    "die adler": "Eintracht Frankfurt",
+
+    "augsburg": "FC Augsburg",
+    "fca": "FC Augsburg",
+    "fuggerstadter": "FC Augsburg",
+
+    "stuttgart": "VfB Stuttgart",
+    "vfb": "VfB Stuttgart",
+
+    "leipzig": "RB Leipzig",
+    "rb": "RB Leipzig",
+    "die roten bullen": "RB Leipzig",
+    "red bulls": "RB Leipzig",
+
+    "bochum": "VfL Bochum",
+    "die unabsteigbaren": "VfL Bochum",
+
+    "heidenheim": "1. FC Heidenheim",
+    "fch": "1. FC Heidenheim",
+
+    "union": "Union Berlin",
+    "union berlin": "Union Berlin",
+    "die eisernen": "Union Berlin",
+    "the iron ones": "Union Berlin",
+
+    "st pauli": "FC St. Pauli",
+    "fcstp": "FC St. Pauli",
+    "die kiezkicker": "FC St. Pauli",
+
+    "kiel": "Holstein Kiel",
+    "die storche": "Holstein Kiel",
+
+    "elversberg": "SV Elversberg",
+    "sve": "SV Elversberg",
+
+    "ss lazio": "Lazio",
+    "lazio rome": "Lazio",
+    "le aquile": "Lazio",
+    "biancocelesti": "Lazio",
+
+    "milan": "AC Milan",
+    "ac milan": "AC Milan",
+    "rossoneri": "AC Milan",
+    "the reds and blacks": "AC Milan",
+
+    "cagliari calcio": "Cagliari",
+    "i rossoblù": "Cagliari",
+
+    "ssc napoli": "Napoli",
+    "partenopei": "Napoli",
+    "gli azzurri": "Napoli",
+
+    "udinese calcio": "Udinese",
+    "i bianconeri": "Udinese",
+
+    "genoa cfc": "Genoa",
+    "il grifone": "Genoa",
+
+    "juventus fc": "Juventus",
+    "juve": "Juventus",
+    "la vecchia signora": "Juventus",
+    "old lady": "Juventus",
+    "bianconeri": "Juventus",
+
+    "roma": "AS Roma",
+    "as roma": "AS Roma",
+    "giallorossi": "AS Roma",
+    "i lupi": "AS Roma",
+
+    "atalanta bc": "Atalanta",
+    "la dea": "Atalanta",
+    "bergamaschi": "Atalanta",
+
+    "bologna fc": "Bologna",
+    "rossoblù": "Bologna",
+    "i rossoblu": "Bologna",
+
+    "acf fiorentina": "Fiorentina",
+    "viola": "Fiorentina",
+    "la viola": "Fiorentina",
+
+    "torino fc": "Torino",
+    "il toro": "Torino",
+    "granata": "Torino",
+
+    "verona": "Hellas Verona",
+    "hellas": "Hellas Verona",
+    "gialloblu": "Hellas Verona",
+
+    "inter milan": "Inter",
+    "internazionale": "Inter",
+    "fc internazionale": "Inter",
+    "nerazzurri": "Inter",
+    "la beneamata": "Inter",
+
+    "empoli fc": "Empoli",
+
+    "venezia fc": "Venezia",
+    "arancioneroverdi": "Venezia",
+
+    "parma calcio": "Parma",
+    "i crociati": "Parma",
+
+    "us lecce": "Lecce",
+    "i giallorossi": "Lecce",
+
+    "como 1907": "Como",
+    "lariani": "Como",
+
+    "ac monza": "Monza",
+    "i biancorossi": "Monza",
+
+    "angers sco": "Angers",
+    "le sco": "Angers",
+
+    "losc": "Lille",
+    "losc lille": "Lille",
+    "les dogues": "Lille",
+    "dogues": "Lille",
+
+    "olympique lyonnais": "Lyon",
+    "ol": "Lyon",
+    "les gones": "Lyon",
+    "gones": "Lyon",
+
+    "olympique de marseille": "Marseille",
+    "om": "Marseille",
+    "les phoceens": "Marseille",
+    "phocéens": "Marseille",
+
+    "montpellier hsc": "Montpellier",
+    "la paillade": "Montpellier",
+    "mhsc": "Montpellier",
+
+    "fc nantes": "Nantes",
+    "les canaris": "Nantes",
+    "canaries": "Nantes",
+
+    "ogc nice": "Nice",
+    "les aiglons": "Nice",
+    "aiglons": "Nice",
+
+    "psg": "Paris Saint Germain",
+    "paris": "Paris Saint Germain",
+    "paris sg": "Paris Saint Germain",
+    "paris saint-germain": "Paris Saint Germain",
+    "les parisiens": "Paris Saint Germain",
+
+    "as monaco": "Monaco",
+    "les monegasques": "Monaco",
+    "monégasques": "Monaco",
+
+    "stade de reims": "Reims",
+    "les rouges et blancs": "Reims",
+
+    "stade rennais": "Rennes",
+    "srfc": "Rennes",
+    "les rouge et noir": "Rennes",
+
+    "rc strasbourg": "Strasbourg",
+    "rcsa": "Strasbourg",
+    "la meinau": "Strasbourg",
+
+    "toulouse fc": "Toulouse",
+    "tfc": "Toulouse",
+    "les violets": "Toulouse",
+
+    "brest": "Stade Brestois 29",
+    "stade brestois": "Stade Brestois 29",
+    "sb29": "Stade Brestois 29",
+    "les pirates": "Stade Brestois 29",
+
+    "aj auxerre": "Auxerre",
+    "aja": "Auxerre",
+    "les bourguignons": "Auxerre",
+
+    "lehavre": "Le Havre",
+    "hac": "Le Havre",
+    "le havre ac": "Le Havre",
+    "les ciel et marine": "Le Havre",
+
+    "fc metz": "Metz",
+    "les grenats": "Metz",
+
+    "rc lens": "Lens",
+    "racing club de lens": "Lens",
+    "les sang et or": "Lens",
+    "blood and gold": "Lens",
+
+    "asse": "Saint Etienne",
+    "as saint-etienne": "Saint Etienne",
+    "les verts": "Saint Etienne",
+    "the greens": "Saint Etienne"
+}

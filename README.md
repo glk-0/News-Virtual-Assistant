@@ -2,6 +2,10 @@
 
 **Atlas** is a specialized morning virtual assistant designed to simplify daily routines through natural voice interaction like Siri, or Alexa. Developed as the final project for **CSI 5180: Topics in AI - Virtual Assistants (Winter 2026)**, Atlas acts as an interactive command center to help users multitask during their busy mornings.
 
+
+https://github.com/user-attachments/assets/f02dc88e-9ca2-4dce-b084-e5e6534ccbc8
+
+
 ---
 
 ## ✨ Key Features
